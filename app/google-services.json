@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "858864561610",
+    "firebase_url": "https://pengingatminumairputih-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pengingatminumairputih",
+    "storage_bucket": "pengingatminumairputih.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858864561610:android:d5c822401cbfd417a9f333",
+        "android_client_info": {
+          "package_name": "com.mahogadaffa.pengingatminumairputih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj3GjsJwayYF9tlRsVTXGWYjpW88bLBLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
